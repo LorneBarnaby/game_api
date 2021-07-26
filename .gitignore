@@ -1,3 +1,4 @@
 /target
 jwtRS256.key
 .env
+jwtRS256.key.pub
